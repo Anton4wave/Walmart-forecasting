@@ -53,6 +53,7 @@ Metrics for this competition: The metric of the competition is weighted mean abs
 ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/174b5c63-27ee-45c3-bf17-e1a97a9a40d0)
 
 Modeling:
+
 -For the baseline I used RandomForestRegressor and get WMAE = 
 
 -Then I removed unnecessary columns and trained the model again, obtaining WMAE = 
