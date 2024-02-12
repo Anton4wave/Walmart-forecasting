@@ -22,8 +22,11 @@ My goal in this project is to do an accurate data analysis, build a model that p
 ## EDA
 Average Monthly Sales
 
-
 ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/b3e07597-b6ad-42e6-aa82-3722af47bfa7)
+
+Average Year Sales
+
+![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/cf226b81-bad3-437f-97a3-9e1ff4106045)
 
 The impact of holidays on sales
 
@@ -32,6 +35,9 @@ The impact of holidays on sales
 Effect of Temperature
 
 ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/e9dc97fc-722e-4ce3-b41f-f236c570f2c1)
+
+
+
 
 
 ## Prediction 
