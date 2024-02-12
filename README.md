@@ -10,13 +10,16 @@ My goal in this project is to do an accurate data analysis, build a model that p
 - [technologies](#technologies)
 - [EDA](#EDA)
 - [Prediction](#Prediction)
--
 
 ## technologies
-- 
+- Pandas
+- Matplotlib
+- Seaborn
+- sklearn
+- xgboost
 
 
-##EDA
+## EDA
 
 
-##Prediction 
+## Prediction 
