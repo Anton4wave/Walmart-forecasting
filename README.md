@@ -47,3 +47,8 @@ A couple of conclusions can be drawn:
 
 
 ## Prediction 
+
+Metrics for this competition: The metric of the competition is weighted mean absolute error (WMAE). Weight of the error changes when it is holiday.
+
+![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/174b5c63-27ee-45c3-bf17-e1a97a9a40d0)
+
