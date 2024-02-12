@@ -6,7 +6,7 @@ This dataset was taken from the Kaggle website.
 My goal in this project is to do an accurate data analysis, build a model that predicts store sales. With this model, Walmart authorities can determine their plans for the future, which is very important for allocating inventory, calculating revenue, and deciding whether to make new investments or not.
 
 
-## Содержание
+## Content
 - [technologies](#technologies)
 - [EDA](#EDA)
 - [Prediction](#Prediction)
