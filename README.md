@@ -21,6 +21,8 @@ My goal in this project is to do an accurate data analysis, build a model that p
 
 ## EDA
 Average Monthly Sales
+
+
 ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/b3e07597-b6ad-42e6-aa82-3722af47bfa7)
 
 
