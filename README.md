@@ -60,5 +60,5 @@ Modeling:
 
 - Then I used XGBoost. WMAE = 3096
 
-- Then I used XGBoost and RandomForestRegressor with KFold - got the best value. WMAE = 2138
+- Then I used XGBoost and RandomForestRegressor with KFold - got the best value. WMAE = 2188
 
