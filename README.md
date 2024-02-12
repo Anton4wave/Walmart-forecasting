@@ -29,6 +29,9 @@ The impact of holidays on sales
 
 ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/64aa7e79-98ce-4ea6-bcc1-f50ba5bacb49)
 
+Effect of Temperature
+
+![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/e9dc97fc-722e-4ce3-b41f-f236c570f2c1)
 
 
 ## Prediction 
