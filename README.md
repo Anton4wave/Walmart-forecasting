@@ -58,5 +58,7 @@ Modeling:
 
 - Then I removed unnecessary columns and trained the model again, obtaining WMAE = 4215
 
-- Then I used XGBoost and got the best value. WMAE = 2
+- Then I used XGBoost. WMAE = 3096
+
+- Then I used XGBoost and RandomForestRegressor with KFold - got the best value. WMAE = 2138
 
