@@ -39,11 +39,11 @@ Effect of Temperature
 
 A couple of conclusions can be drawn:
 
--Firstly, the number of sales depends greatly on the month
+- Firstly, the number of sales depends greatly on the month
 
--Secondly, Walmart's sales are falling every year
+- Secondly, Walmart's sales are falling every year
 
--Thirdly, according to statistics, there are more sales during the weekend
+- Thirdly, according to statistics, there are more sales during the weekend
 
 
 ## Prediction 
@@ -54,9 +54,9 @@ Metrics for this competition: The metric of the competition is weighted mean abs
 
 Modeling:
 
--For the baseline I used RandomForestRegressor and get WMAE = 
+- For the baseline I used RandomForestRegressor and get WMAE = 
 
--Then I removed unnecessary columns and trained the model again, obtaining WMAE = 
+- Then I removed unnecessary columns and trained the model again, obtaining WMAE = 
 
--Then I used XGBoost and got the best value. WMAE = 
+- Then I used XGBoost and got the best value. WMAE = 
 
