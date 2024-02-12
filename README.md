@@ -37,7 +37,10 @@ Effect of Temperature
 ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/e9dc97fc-722e-4ce3-b41f-f236c570f2c1)
 
 
-
+A couple of conclusions can be drawn:
+-Firstly, the number of sales depends greatly on the month
+-Secondly, Walmart's sales are falling every year
+-Thirdly, according to statistics, there are more sales during the weekend
 
 
 ## Prediction 
