@@ -25,5 +25,10 @@ Average Monthly Sales
 
 ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/b3e07597-b6ad-42e6-aa82-3722af47bfa7)
 
+The impact of holidays on sales
+
+![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/64aa7e79-98ce-4ea6-bcc1-f50ba5bacb49)
+
+
 
 ## Prediction 
