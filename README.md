@@ -38,8 +38,11 @@ Effect of Temperature
 
 
 A couple of conclusions can be drawn:
+
 -Firstly, the number of sales depends greatly on the month
+
 -Secondly, Walmart's sales are falling every year
+
 -Thirdly, according to statistics, there are more sales during the weekend
 
 
