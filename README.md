@@ -54,9 +54,9 @@ Metrics for this competition: The metric of the competition is weighted mean abs
 
 Modeling:
 
-- For the baseline I used RandomForestRegressor and get WMAE = 
+- For the baseline I used RandomForestRegressor and get WMAE = 6691
 
-- Then I removed unnecessary columns and trained the model again, obtaining WMAE = 
+- Then I removed unnecessary columns and trained the model again, obtaining WMAE = 4215
 
-- Then I used XGBoost and got the best value. WMAE = 
+- Then I used XGBoost and got the best value. WMAE = 2
 
