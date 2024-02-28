@@ -69,7 +69,13 @@ Noise:
 
 ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/b8803ba7-a586-423f-8a2a-5a4a9b10a591)
 
+Conclusion:
 
+- There is seasonality, which means the data is not stationary.
+- Non-stationary data can interfere with learning.
+- Let's conduct the Dickey Fuller test to be completely confident in our hypothesis.
+- To learn using methods that do not take into account seasonality, you will have to differentiate the data to get rid of non-stationarity.
+- The seasonality is obvious: in October-November sales drop sharply, and during the New Year holidays the maximum sales values for the entire year are observed.
 
 ## Prediction 
 
