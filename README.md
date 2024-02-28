@@ -77,7 +77,7 @@ Conclusion:
 - To learn using methods that do not take into account seasonality, you will have to differentiate the data to get rid of non-stationarity.
 - The seasonality is obvious: in October-November sales drop sharply, and during the New Year holidays the maximum sales values for the entire year are observed.
 
-## Prediction 
+## Prediction using Machine learning methods
 
 Metrics for machine learning solution: The metric of the competition is weighted mean absolute error (WMAE). Weight of the error changes when it is holiday.
 
@@ -94,5 +94,14 @@ Modeling:
 - Then I used CatBoost and GridSearchCV for selection of hyperparameters - got the best value. WMAE = 4770.8704416440005
 
 ### To summarize, the machine learning models did not perform well on the data. The error in MAE and WMAE remains large even with the use of gradient boosting.
-This leads us to the conclusion that time Series prediction models are more suitable for predicting sales.
+### This leads us to the conclusion that time Series prediction models are more suitable for predicting sales.
+
+
+## Prediction using Time Series methods
+
+Metrics for Time Series solution: MAE
+
+![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/3b5940c4-daf7-4ea3-a26d-991c5526fa4e)
+
+Modeling:
 
