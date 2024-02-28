@@ -51,7 +51,7 @@ A couple of conclusions can be drawn:
 
 ## Time Series Analysis
 
-График распределения еженедельных продаж и скользящее среднее 
+Weekly sales distribution chart and moving average
 
 ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/e2763b2d-69d7-46d9-9af9-82590ad5fcfb)
 
