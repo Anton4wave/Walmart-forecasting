@@ -55,6 +55,21 @@ A couple of conclusions can be drawn:
 
 ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/e2763b2d-69d7-46d9-9af9-82590ad5fcfb)
 
+Decomposition into components: trend, seasonality, noise
+
+Trend:
+
+![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/3affa7a6-bf92-4a7b-a1b2-9713becab597)
+
+Seasonality:
+
+![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/a8f87908-f088-4f52-849b-a498be23996a)
+
+Noise:
+
+![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/b8803ba7-a586-423f-8a2a-5a4a9b10a591)
+
+
 
 ## Prediction 
 
