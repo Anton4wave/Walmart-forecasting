@@ -93,8 +93,8 @@ Modeling:
 
 - Then I used CatBoost and GridSearchCV for selection of hyperparameters - got the best value. WMAE = 4770.8704416440005
 
-### To summarize, the machine learning models did not perform well on the data. The error in MAE and WMAE remains large even with the use of gradient boosting.
-### This leads us to the conclusion that time Series prediction models are more suitable for predicting sales.
+#### To summarize, the machine learning models did not perform well on the data. The error in MAE and WMAE remains large even with the use of gradient boosting.
+#### This leads us to the conclusion that time Series prediction models are more suitable for predicting sales.
 
 
 
