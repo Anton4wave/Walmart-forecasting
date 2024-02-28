@@ -110,21 +110,21 @@ Modeling:
 
 - SARIMAX: MAE = 1745.4954652086265
 
-- ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/8c77e161-e409-4f40-99ef-22dfdcf4d813)
+  ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/8c77e161-e409-4f40-99ef-22dfdcf4d813)
 
 - ExponentialSmoothing: MAE = 1432.412837075689
 
-- ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/42c69e14-3ff7-483b-8df9-1c9550069b9e)
+  ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/42c69e14-3ff7-483b-8df9-1c9550069b9e)
 
 - Make the data_date dataset more stationary and check results again.
 
 - ARIMA (auto-arima): MAE = 634.3756611129793
 
-- ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/035ffe05-2c60-4fc5-a673-1c2f20023b5f)
+  ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/035ffe05-2c60-4fc5-a673-1c2f20023b5f)
 
 - ExponentialSmoothing: MAE = 615.5039634938241
 
-- ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/3581ecab-e53e-4359-bfd0-4ad1e17a8ab4)
+  ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/3581ecab-e53e-4359-bfd0-4ad1e17a8ab4)
 
 
 
