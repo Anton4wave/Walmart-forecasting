@@ -17,6 +17,10 @@ My goal in this project is to do an accurate data analysis, build a model that p
 - Seaborn
 - Sklearn
 - Xgboost
+- Grid Search
+- SARIMAX
+- ARIMA
+- Exponential Smoothing 
 
 
 ## EDA
