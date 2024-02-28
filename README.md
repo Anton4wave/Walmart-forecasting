@@ -17,7 +17,7 @@ My goal in this project is to do an accurate data analysis, build a model that p
 - Seaborn
 - Sklearn
 - Xgboost
-- Grid Search
+- GridSearchCV
 - SARIMAX
 - ARIMA
 - Exponential Smoothing 
@@ -79,17 +79,20 @@ Conclusion:
 
 ## Prediction 
 
-Metrics for this competition: The metric of the competition is weighted mean absolute error (WMAE). Weight of the error changes when it is holiday.
+Metrics for machine learning solution: The metric of the competition is weighted mean absolute error (WMAE). Weight of the error changes when it is holiday.
 
 ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/174b5c63-27ee-45c3-bf17-e1a97a9a40d0)
 
 Modeling:
 
-- For the baseline I used RandomForestRegressor and get WMAE = 6691
+- For the baseline I used RandomForestRegressor and get WMAE = 7775.8559972085195
 
-- Then I removed unnecessary columns and trained the model again, obtaining WMAE = 4215
+- Then I removed unnecessary columns and trained the model again, obtaining WMAE = 5782.147319557271
 
-- Then I used XGBoost. WMAE = 3096
+- Then I used XGBoost. WMAE = 5633.086807053968
 
-- Then I used XGBoost and RandomForestRegressor with KFold - got the best value. WMAE = 2188
+- Then I used CatBoost and GridSearchCV for selection of hyperparameters - got the best value. WMAE = 4770.8704416440005
+
+### To summarize, the machine learning models did not perform well on the data. The error in MAE and WMAE remains large even with the use of gradient boosting.
+This leads us to the conclusion that time Series prediction models are more suitable for predicting sales.
 
