@@ -126,5 +126,12 @@ Modeling:
 
   ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/3581ecab-e53e-4359-bfd0-4ad1e17a8ab4)
 
+Conclusion:
+
+- Here the model showed the same small error and good repetition of the time series on validation.
+- This model will be selected as the best, because in addition to having a small error, it repeats the time sequence well.
+- Making a forecast using this model:
+
+  ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/968f3ef1-4b98-4396-926e-841503d848f4)
 
 
