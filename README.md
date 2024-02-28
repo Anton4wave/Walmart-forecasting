@@ -110,7 +110,7 @@ Modeling:
 
 - SARIMAX: MAE = 1745.4954652086265
 
-  ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/8c77e161-e409-4f40-99ef-22dfdcf4d813)
+  ![image](https://github.com/Anton4wave/Walmart-forecasting/assets/100091790/d770eda3-a40e-42e8-8053-61ebcfc0f727)
 
 - ExponentialSmoothing: MAE = 1432.412837075689
 
